@@ -13,8 +13,8 @@ VERIFICATION_CODE_KEY = "verification_code"
 
 MANUFACTURER = "Yale Home Inc."
 
-DEFAULT_NAME = "Yale"
-DOMAIN = "yale"
+DEFAULT_NAME = "Yale Custom"
+DOMAIN = "yale_custom"
 
 OPERATION_METHOD_AUTORELOCK = "autorelock"
 OPERATION_METHOD_REMOTE = "remote"

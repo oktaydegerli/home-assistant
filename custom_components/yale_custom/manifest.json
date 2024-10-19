@@ -1,6 +1,6 @@
 {
-  "domain": "yale",
-  "name": "Yale",
+  "domain": "yale_custom",
+  "name": "Yale Custom",
   "version": "0.0.1",
   "codeowners": ["@oktaydegerli"],
   "config_flow": true,
